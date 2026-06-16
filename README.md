@@ -2,7 +2,7 @@
 
 # Hi, It's Me, Nava Zaamari 👋
 
-🎓 Future CS Student | 💻 Backend Developer
+🎓 Future CS Student | 💻 Backend Developer | 🤖 AI Enthusiast
 
 </div>
 
