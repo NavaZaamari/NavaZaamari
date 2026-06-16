@@ -1,8 +1,10 @@
+<div align="center">
+
 # Hi, It's Me, Nava Zaamari 👋
 
-🎓 Future CS Student
+🎓 Future CS Student | 💻 Backend Developer
 
-💻 Backend Developer
+</div>
 
 🚀 Technologies
 
